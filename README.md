@@ -4,7 +4,7 @@
 
 <h3 align="center"><b> 💻 Tools & Tech 🖱️ </b></h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,ts,react,next,nodejs,html,css,figma,postgres,prisma,git,github,py,supabase,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=tailwind,ts,react,next,nodejs,html,css,figma,postgres,prisma,git,github,py,supabase,vscode&" />
 </p>
 
 <h3 align="center"><b> 📩 Find me Here 📮 </b></h3>
@@ -20,5 +20,7 @@
   </a>
 </p>
 
-  <img src="https://nirzak-streak-stats.vercel.app?user=ellyannadu&theme=nord&border_radius=5&hide_longest_streak=true" />
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=ellyannadu&theme=nord&border_radius=2&card_width=375" />
   <img src="https://github-readme-stats.vercel.app/api?username=ellyannadu&theme=nord&show_icons=true" />
+</p>
