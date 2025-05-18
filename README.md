@@ -15,8 +15,8 @@
    <a href="mailto:duellyanna@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://discord.com/ilovesamyangcarbonara">
-    <img src="https://skillicons.dev/icons?i=discord" />
+  <a href="https://instagram.com/thevirgnisuicides">
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
 
