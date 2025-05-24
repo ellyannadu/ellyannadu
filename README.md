@@ -4,7 +4,7 @@
 
 <h3 align="center"><b> 💻 Tools & Tech 🖱️ </b></h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,ts,react,next,nodejs,html,css,figma,postgres,prisma,git,github,py,supabase,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=tailwind,ts,react,next,nodejs,html,css,figma,postgres,prisma,git,github,py,supabase,vscode,vite&perline=8" />
 </p>
 
 <h3 align="center"><b> 📩 Find me Here 📮 </b></h3>
