@@ -1,4 +1,4 @@
-<h1 align="center"> I'm Yunny! ⋆.˚ 你吃飯了嗎? </h1>
+<h1 align="center"> Hi, I'm Yunny! ⋆.˚ 你吃飯了嗎? </h1>
 <p align="center"> QA Engineer 🔍 Project Manager 👩🏻‍💻 Web Developer  </p>
 <p align="center"> Currently on a college conquest! I study Computer Science at Ateneo de Davao University. </p>
 
