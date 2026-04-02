@@ -19,8 +19,3 @@
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=ellyannadu&theme=nord&border_radius=2&card_width=375" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ellyannadu&theme=nord&show_icons=true" />
-</p>
