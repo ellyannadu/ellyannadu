@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I'm Yunny! ⋆.˚ 你吃飯了嗎? </h1>
-<p align="center"> QA Analyst 🔍 Project Manager 👩🏻‍💻 Software Developer  </p>
+<p align="center"> QA & UX Specialist 🔍 Project Manager 👩🏻‍💻 Software Developer  </p>
 <p align="center"> I studied Computer Science at Ateneo de Davao University. </p>
 
 <h3 align="center"><b> 💻 Tools & Tech 🖱️ </b></h3>
