@@ -15,7 +15,4 @@
    <a href="mailto:duellyanna@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://instagram.com/ellyannadu">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
 </p>
